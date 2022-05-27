@@ -31,8 +31,8 @@ Project based on 3-layer architecture:
 
 ![line](src/main/resources/rainbow.png)
 ## Setup
-* Configure Apache Tomcat
 * Install IntelliJ IDEA, MySQL and MySQL Workbench
+* Configure Apache Tomcat
 * Create a schema and all the necessary tables by using the script from `resources/init_db.sql` in MySQL Workbench
 * In the `/util/ConnectionUtil.java` class change the "user" and "password" properties to the ones you specified when installing MySQL
 ```java
