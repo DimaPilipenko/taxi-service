@@ -1,10 +1,10 @@
 # Taxi Service
-![image](src/main/resources/taxi.jpg)
+![image](src/main/resources/images/taxi.jpg)
 
 # Mission
 * Create a taxi service with authentication system
 
-![line](src/main/resources/rainbow.png)
+![line](src/main/resources/images/rainbow.png)
 # How to start
 * During the first launch you will be redirected to a login page where you have two options: login (if you already registered)
   or register like a new driver
@@ -12,14 +12,14 @@
 * Driver can add himself to different cars
 * The remaining functionality you can find by starting the app
 
-![line](src/main/resources/rainbow.png)
+![line](src/main/resources/images/rainbow.png)
 ## Implementation details and technologies
 Project based on 3-layer architecture:
 * Presentation layer (controllers)
 * Application layer (services)
 * Data access layer (DAO)
 
-![line](src/main/resources/rainbow.png)
+![line](src/main/resources/images/rainbow.png)
 ## Technologies 
 * Apache Tomcat
 * MySQL
@@ -29,7 +29,7 @@ Project based on 3-layer architecture:
 * JSTL
 * HTML, CSS
 
-![line](src/main/resources/rainbow.png)
+![line](src/main/resources/images/rainbow.png)
 ## Setup
 * Configure Apache Tomcat
 * Install IntelliJ IDEA, MySQL and MySQL Workbench
@@ -45,4 +45,4 @@ Project based on 3-layer architecture:
 * Configure TomCat Local server `(Add New Configuration -> TomCat -> Local -> Fix -> taxi-service : war exploded -> OK)`
 * Start the application
 
-![line](src/main/resources/rainbow.png)
+![line](src/main/resources/images/rainbow.png)
